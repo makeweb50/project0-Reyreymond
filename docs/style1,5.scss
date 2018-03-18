@@ -1,0 +1,33 @@
+$red:#af0052;
+body{
+     background:url(privacy.jpg)no-repeat center center fixed;
+     -webkit-background-size:100%;
+      background-color:black;
+  }
+  #redbook{
+    text-align: justify;
+    width: 540px;
+    margin: auto;
+    background-color: black;
+    color: $red;
+    border: solid 3px black;
+    padding:4px;
+    font-family: 'Monotype Coursiva', sans-serif;
+    font-size: 18px;
+    margin-top: 3px;
+  }
+  p{
+    text-align: center;
+    padding-top: 4px;
+    background-color: $red;
+    background-size:auto;
+    color: black;
+    border: solid 2px black;
+    border-radius: 5px;
+  }
+  h1,h2{
+    color:$red;
+  }
+  .navbar{
+    height:50px !important
+  }
