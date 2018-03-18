@@ -1,0 +1,39 @@
+$green:#1aea17;
+body{
+     background:url(watch.jpg)no-repeat center center fixed;
+     -webkit-background-size:100%;
+      background-color:black;
+  }
+#sizer{
+  text-align: justify;
+  width: 540px;
+  margin: auto;
+  background-color: black;
+  color: white;
+  padding:4px;
+  font-family: 'Monotype Coursiva', sans-serif;
+  font-size: 18px;
+  margin-top: 3px;
+}
+.picture img{
+  margin:0 0 0 50%;
+  position: relative;
+  padding:6px;
+}
+p{
+  text-align: center;
+  padding-top: 4px;
+  background-color: grey;
+  background-size:auto;
+  color: $green;
+  border-radius: 5px;
+}
+h1,h2{
+  color:$green;
+}
+title{
+  background-color: black;
+}
+.navbar{
+  height:50px !important
+}

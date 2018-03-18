@@ -1,0 +1,15 @@
+body {
+  background: url(dedsec.jpg) no-repeat center center fixed;
+  -webkit-background-size: 100%;
+  background-color: black; }
+
+a h1, a h2 {
+  color: #1aea17; }
+
+.navbar {
+  height: 50px !important; }
+
+div {
+  text-align: right; }
+
+/*# sourceMappingURL=style.css.map */

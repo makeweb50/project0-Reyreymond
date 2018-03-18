@@ -1,0 +1,33 @@
+body {
+  background: url(dog.jpg) no-repeat center center fixed;
+  -webkit-background-size: 100%;
+  background-color: black; }
+
+#ddd {
+  text-align: justify;
+  width: 540px;
+  margin: auto;
+  background-color: #000000;
+  color: #10d6e8;
+  border: solid 3px grey;
+  padding: 4px;
+  font-family: 'Monotype Coursiva', sans-serif;
+  font-size: 18px;
+  margin-top: 3px; }
+
+p {
+  text-align: center;
+  padding-top: 4px;
+  background-color: grey;
+  background-size: auto;
+  color: black;
+  border-radius: 5px; }
+
+.navbar {
+  height: 50px !important;
+  background-color: grey; }
+
+h1, h2 {
+  color: #10d6e8; }
+
+/*# sourceMappingURL=style2.css.map */
